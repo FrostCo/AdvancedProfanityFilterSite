@@ -1,4 +1,5 @@
 ## 🎥 Video Playback Muting
+
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ |  |  |
