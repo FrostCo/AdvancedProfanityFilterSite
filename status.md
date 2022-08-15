@@ -1,4 +1,8 @@
-## 🎥 Video Playback Muting
+# 🎥 Video Playback Muting
+
+## Legend
+#### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
+#### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
 
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
@@ -60,8 +64,3 @@
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/richardfrost/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ |  |  |
-
-#
-### Legend
-#### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
-#### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
