@@ -1,6 +1,6 @@
-# 🎥 Video Audio Muting Status
+# 🎥 Status of Supported Audio Muting Sites
 
-Current status of supported audio sites for [Advanced Profanity Filter](https://github.com/richardfrost/AdvancedProfanityFilter#readme)
+Current status of supported sites for [Advanced Profanity Filter](https://github.com/richardfrost/AdvancedProfanityFilter#readme)'s audio muting feature.
 
 ##### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
 ##### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
