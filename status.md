@@ -1,6 +1,7 @@
-# 🎥 Video Playback Muting
+# 🎥 Video Audio Muting Status
 
-## Legend
+Current status of supported audio sites for [Advanced Profanity Filter](https://github.com/richardfrost/AdvancedProfanityFilter#readme)
+
 #### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
 #### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
 
