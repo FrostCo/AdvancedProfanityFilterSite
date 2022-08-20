@@ -4,6 +4,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 
 ##### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
 ##### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
+##### _Statuses apply to the [latest version of APF](https://github.com/richardfrost/AdvancedProfanityFilter/releases/latest)_
 
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
