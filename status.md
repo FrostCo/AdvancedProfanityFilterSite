@@ -13,7 +13,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Amazon Prime (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Apple TV+](https://tv.apple.com) | ⚠️ | 📝 | 📝 | [#323](https://github.com/richardfrost/AdvancedProfanityFilter/issues/323) | Requires `Deep` mode |
+| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#323](https://github.com/richardfrost/AdvancedProfanityFilter/issues/323) | Recently updated - see issue |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -24,6 +24,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ |  |  |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ | [#429](https://github.com/richardfrost/AdvancedProfanityFilter/issues/429) | New! |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -33,10 +34,11 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
-| [HBO Max](https://play.hbomax.com) | ⛔ | ❌ | ❌ | [#422](https://github.com/richardfrost/AdvancedProfanityFilter/issues/422) | Broken after HBO Max update |
+| [HBO Max](https://play.hbomax.com) | ✅ | ✔️ | ✔️ | [#422](https://github.com/richardfrost/AdvancedProfanityFilter/issues/422) | Recently updated - see issue |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/richardfrost/AdvancedProfanityFilter/issues/431) | New! |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -56,12 +58,13 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
+| [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [VRV](https://vrv.co) | ✅ | ✔️ | ✔️ |  |  |
-| [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/richardfrost/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/richardfrost/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ |  |  |
