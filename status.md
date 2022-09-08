@@ -14,7 +14,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Amazon Prime (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#323](https://github.com/richardfrost/AdvancedProfanityFilter/issues/323) | Recently updated - see issue |
+| [Apple TV+](https://tv.apple.com) | ⛔ | ❌ | ❌ | [#436](https://github.com/richardfrost/AdvancedProfanityFilter/issues/436) | Website updated |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ |  |  |
