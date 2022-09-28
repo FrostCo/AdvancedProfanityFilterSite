@@ -61,7 +61,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Tubi](https://tubitv.com) | ⛔ | ❌ | ❌ | [#440](https://github.com/richardfrost/AdvancedProfanityFilter/issues/440) | Site updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
