@@ -25,7 +25,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ |  |  |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ | [#429](https://github.com/richardfrost/AdvancedProfanityFilter/issues/429) | New! |
+| [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ | [#429](https://github.com/richardfrost/AdvancedProfanityFilter/issues/429) |  |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -39,7 +39,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/richardfrost/AdvancedProfanityFilter/issues/431) | New! |
+| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/richardfrost/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
