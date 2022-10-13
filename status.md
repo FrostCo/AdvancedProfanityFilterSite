@@ -14,7 +14,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Amazon Prime (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Apple TV+](https://tv.apple.com) | ⛔ | ❌ | ❌ | [#436](https://github.com/richardfrost/AdvancedProfanityFilter/issues/436) | Website updated |
+| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/richardfrost/AdvancedProfanityFilter/issues/436) | Recently updated - see issue |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -61,7 +61,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Tubi](https://tubitv.com) | ⛔ | ❌ | ❌ | [#440](https://github.com/richardfrost/AdvancedProfanityFilter/issues/440) | Site updated - see issue |
+| [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/richardfrost/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
