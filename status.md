@@ -44,7 +44,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
-| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Peacock](https://www.peacocktv.com) | ⛔ | ❌ | ❌ | [#452](https://github.com/richardfrost/AdvancedProfanityFilter/issues/452) | Site updated - see issue |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
