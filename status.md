@@ -25,7 +25,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ |  |  |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ | [#429](https://github.com/richardfrost/AdvancedProfanityFilter/issues/429) |  |
+| [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -59,7 +59,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
-| [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  | New! |
+| [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/richardfrost/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
