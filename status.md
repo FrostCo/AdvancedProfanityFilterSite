@@ -39,12 +39,13 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/richardfrost/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
-| [Peacock](https://www.peacocktv.com) | ⛔ | ❌ | ❌ | [#452](https://github.com/richardfrost/AdvancedProfanityFilter/issues/452) | Site updated - see issue |
+| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/richardfrost/AdvancedProfanityFilter/issues/452) | Recently updated - see issue |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
@@ -54,6 +55,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Shudder](https://www.shudder.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
