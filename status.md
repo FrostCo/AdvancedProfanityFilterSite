@@ -14,7 +14,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Amazon Prime (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
-| [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) | Recently updated - see issue |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
@@ -40,7 +40,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  | New! |
+| [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -56,7 +56,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Shudder](https://www.shudder.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [Shudder](https://www.shudder.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
