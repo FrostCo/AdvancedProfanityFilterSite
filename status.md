@@ -51,7 +51,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
-| [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) | Recently updated - see issue |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -70,5 +70,6 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [VRV](https://vrv.co) | ✅ | ✔️ | ✔️ |  |  |
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
+| [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) | New! |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ |  |  |
