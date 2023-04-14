@@ -1,10 +1,10 @@
 # 🎥 Status of Supported Audio Muting Sites
 
-Current status of supported sites for [Advanced Profanity Filter](https://github.com/richardfrost/AdvancedProfanityFilter#readme)'s audio muting feature.
+Current status of supported sites for [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme)'s audio muting feature.
 
 ##### Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown
 ##### Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown
-##### _Statuses apply to the [latest version of APF](https://github.com/richardfrost/AdvancedProfanityFilter/releases/latest)_
+##### _Statuses apply to the [latest version of APF](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest)_
 
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
@@ -15,7 +15,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  | New! |
-| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/richardfrost/AdvancedProfanityFilter/issues/436) | Recently updated - see issue |
+| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) | Recently updated - see issue |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -36,17 +36,17 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
-| [HBO Max](https://play.hbomax.com) | ✅ | ✔️ | ✔️ | [#422](https://github.com/richardfrost/AdvancedProfanityFilter/issues/422) | Recently updated - see issue |
+| [HBO Max](https://play.hbomax.com) | ✅ | ✔️ | ✔️ | [#422](https://github.com/FrostCo/AdvancedProfanityFilter/issues/422) | Recently updated - see issue |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  | New! |
-| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/richardfrost/AdvancedProfanityFilter/issues/431) |  |
+| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
-| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/richardfrost/AdvancedProfanityFilter/issues/452) | Recently updated - see issue |
+| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | Recently updated - see issue |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
@@ -64,11 +64,11 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/richardfrost/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
+| [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [VRV](https://vrv.co) | ✅ | ✔️ | ✔️ |  |  |
-| [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/richardfrost/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
-| [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/richardfrost/AdvancedProfanityFilter/issues/207) |  |
+| [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
+| [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ |  |  |
