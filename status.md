@@ -27,6 +27,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ |  |  |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -40,6 +41,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -57,6 +59,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Shudder](https://www.shudder.com) | ✅ | ✔️ | ✔️ |  |  |
+| [SkyShowtime](https://www.skyshowtime.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
