@@ -71,7 +71,6 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
-| [VRV](https://vrv.co) | ✅ | ✔️ | ✔️ |  |  |
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) | New! |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
