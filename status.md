@@ -55,6 +55,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
 | [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) | Recently updated - see issue |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [#499](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) | New! |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
