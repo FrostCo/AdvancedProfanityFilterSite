@@ -24,7 +24,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Channel 4 (GBR)](https://www.channel4.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Crackle](https://www.crackle.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ | [#502](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) | Recently updated - see issue |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  | New! |
