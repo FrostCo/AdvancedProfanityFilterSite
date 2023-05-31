@@ -37,11 +37,11 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
-| [HBO Max](https://play.hbomax.com) | ✅ | ✔️ | ✔️ | [#422](https://github.com/FrostCo/AdvancedProfanityFilter/issues/422) | Recently updated - see issue |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505 | Recently updated - see issue |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -71,7 +71,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | Recently updated - see issue |
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) | New! |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
