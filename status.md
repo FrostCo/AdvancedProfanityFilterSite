@@ -41,7 +41,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
-| [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505 | Recently updated - see issue |
+| [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) | Recently updated - see issue |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
