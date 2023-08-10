@@ -38,6 +38,8 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
+| [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
@@ -48,7 +50,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
-| [Peacock](https://www.peacocktv.com) | ⛔ | ⛔ | ⛔ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | see issue |
+| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | see issue |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
