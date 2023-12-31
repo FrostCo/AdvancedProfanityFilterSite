@@ -31,7 +31,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [#531](https://github.com/FrostCo/AdvancedProfanityFilter/issues/531) | Hulu support - see issue |
 | [Fox](https://www.fox.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Fubo](https://www.fubo.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
