@@ -27,6 +27,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ | [#502](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) | Recently updated - see issue |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
@@ -46,8 +47,11 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) | Recently updated - see issue |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
+| [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ |  | New! |
+| [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
 | [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | see issue |
@@ -66,6 +70,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
