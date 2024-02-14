@@ -39,12 +39,14 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  | New! |
-| [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | Updated |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) | Recently updated - see issue |
+| [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ |  | New! |
