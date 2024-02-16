@@ -28,7 +28,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  | New! |
-| [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -44,7 +44,7 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  | New! |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | Updated |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) | Recently updated - see issue |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  | New! |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
@@ -63,12 +63,12 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
 | [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) | Recently updated - see issue |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [#499](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) | New! |
+| [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [#499](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) |  |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Shudder](https://www.shudder.com) | ✅ | ✔️ | ✔️ |  |  |
-| [SkyShowtime](https://www.skyshowtime.com) | ✅ | ✔️ | ✔️ |  | New! |
+| [SkyShowtime](https://www.skyshowtime.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -82,6 +82,6 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | Recently updated - see issue |
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
-| [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) | New! |
+| [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) |  |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [#207](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ |  |  |
