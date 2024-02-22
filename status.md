@@ -63,7 +63,9 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
 | [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) | Recently updated - see issue |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [#499](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) |  |
+| [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -74,8 +76,6 @@ Current status of supported sites for [Advanced Profanity Filter](https://github
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ |  |  |
-| [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
-| [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
