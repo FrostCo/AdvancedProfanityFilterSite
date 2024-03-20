@@ -18,6 +18,7 @@ _Statuses apply to the [latest version of APF](https://github.com/FrostCo/Advanc
 | [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) | Recently updated - see issue |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ |  |  |
+| [Binge (AUS)](https://binge.com.au) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ |  |  |
 | [CBC Gem (CAN)](https://gem.cbc.ca) | ✅ | ✔️ | ✔️ |  |  |
 | [CBS](https://www.cbs.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -32,7 +33,7 @@ _Statuses apply to the [latest version of APF](https://github.com/FrostCo/Advanc
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [#531](https://github.com/FrostCo/AdvancedProfanityFilter/issues/531) | Hulu support - see issue |
+| [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [#531](https://github.com/FrostCo/AdvancedProfanityFilter/issues/531) [#540](https://github.com/FrostCo/AdvancedProfanityFilter/issues/540) | ⬆️ Updated! |
 | [Fox](https://www.fox.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Fubo](https://www.fubo.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -56,10 +57,11 @@ _Statuses apply to the [latest version of APF](https://github.com/FrostCo/Advanc
 | [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
-| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | see issue |
+| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | ⬆️ Updated! |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
+| [Pure Flix](https://www.pureflix.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
 | [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) | Recently updated - see issue |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
@@ -80,6 +82,7 @@ _Statuses apply to the [latest version of APF](https://github.com/FrostCo/Advanc
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) | Recently updated - see issue |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ |  |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Videoland (NLD)](https://v2.videoland.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | Recently updated - see issue |
 | [Vudu](https://www.vudu.com) | ✅ | ✔️ | ✔️ | [#430](https://github.com/FrostCo/AdvancedProfanityFilter/issues/430) | Recently updated - see issue |
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [#495](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) |  |
