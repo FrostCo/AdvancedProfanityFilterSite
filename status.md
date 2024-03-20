@@ -42,7 +42,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
-| [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | Updated |
+| [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | ⬆️ Updated! |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) |  |
