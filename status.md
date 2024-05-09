@@ -40,8 +40,8 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hidive](https://www.hidive.com) | ⛔ | ⛔ | ⛔ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
-| [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
-| [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | ⬆️ Updated! |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
