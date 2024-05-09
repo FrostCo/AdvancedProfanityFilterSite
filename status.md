@@ -7,6 +7,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
+| [9Now (AUS)](https://www.9now.com.au) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ |  |  |
 | [ABC](https://abc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Acorn](https://acorn.tv) | ✅ | ✔️ | ✔️ |  |  |
@@ -29,16 +30,17 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Discovery+](https://www.discoveryplus.com) | ⛔ | ⛔ | ⛔ |  | [#550](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |
+| [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  | [#550](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [#531](https://github.com/FrostCo/AdvancedProfanityFilter/issues/531) [#540](https://github.com/FrostCo/AdvancedProfanityFilter/issues/540) | ⬆️ Updated! |
 | [Fox](https://www.fox.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Frndly TV](https://watch.frndlytv.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Fubo](https://www.fubo.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Hidive](https://www.hidive.com) | ⛔ | ⛔ | ⛔ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
+| [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  |  |
