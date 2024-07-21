@@ -11,9 +11,9 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ |  |  |
 | [ABC](https://abc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Acorn](https://acorn.tv) | ✅ | ✔️ | ✔️ |  |  |
-| [Amazon Prime (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ |  |  |
-| [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ |  |  |
-| [AMC](https://www.amc.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Amazon Prime (GBR)](https://www.amazon.co.uk) | ⛔ | ❌ | ❌ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
+| [Amazon Prime](https://www.primevideo.com) | ⛔ | ❌ | ❌ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
+| [AMC](https://www.amc.com) | ⛔ | ❌ | ❌ | [#558](https://github.com/FrostCo/AdvancedProfanityFilter/issues/558) | Reported not working |
 | [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) |  |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ |  |  |
@@ -25,7 +25,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Channel 4 (GBR)](https://www.channel4.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Crackle](https://www.crackle.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Crunchyroll](https://www.crunchyroll.com) | ✅ | ✔️ | ✔️ | [#502](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) |  |
+| [Crunchyroll](https://www.crunchyroll.com) | ❔ | ❔ | ❔ | [#502](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) | Reported not working |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
