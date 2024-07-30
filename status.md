@@ -8,11 +8,13 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | Site | Status | Muting | Hiding | Issue | Notes |
 |---|:-:|:-:|:-:|---|---|
 | [9Now (AUS)](https://www.9now.com.au) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [10Play (AUS)](https://10play.com.au) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ |  |  |
 | [ABC](https://abc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Acorn](https://acorn.tv) | ✅ | ✔️ | ✔️ |  |  |
-| [Amazon Prime (GBR)](https://www.amazon.co.uk) | ⛔ | ❌ | ❌ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
-| [Amazon Prime](https://www.primevideo.com) | ⛔ | ❌ | ❌ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
+| [Amazon Video](https://www.amazon.com) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
+| [Amazon Video (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
+| [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
 | [AMC](https://www.amc.com) | ⛔ | ❌ | ❌ | [#558](https://github.com/FrostCo/AdvancedProfanityFilter/issues/558) | Reported not working |
 | [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [#436](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) |  |
@@ -45,13 +47,13 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | ⬆️ Updated! |
-| [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ |  |  |
+| [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ | [#563](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ⬆️ Updated! |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) |  |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
-| [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ | [#563](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ✨ New! |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ |  | ✨ New! |
@@ -64,11 +66,12 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ |  |  |
 | [Pure Flix](https://www.pureflix.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ |  |  |
-| [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#493](https://github.com/FrostCo/AdvancedProfanityFilter/issues/) |  |
+| [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [#557](https://github.com/FrostCo/AdvancedProfanityFilter/issues/557) | ⬆️ Updated! |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [#499](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ |  |  |
+| [Rumble](https://rumble.com/) | ✅ | ✔️ | ✔️ | [#562](https://github.com/FrostCo/AdvancedProfanityFilter/discussions/562) | ✨ New! |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ |  |  |
