@@ -2,6 +2,8 @@
 
 Current status of supported sites for the [latest version](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest) of [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme)'s audio muting feature.
 
+**Note: Compatibility can vary based on device and location of access.**
+
 **Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown**  
 **Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown**
 
