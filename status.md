@@ -30,7 +30,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Crunchyroll](https://www.crunchyroll.com) | ❔ | ❔ | ❔ | [#502](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) | Reported not working |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  | [#550](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ |  |  |
@@ -43,21 +43,21 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
-| [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  |  |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) | ⬆️ Updated! |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ | [#563](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ⬆️ Updated! |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) |  |
-| [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ | [#563](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ✨ New! |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ |  | ✨ New! |
-| [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ |  |  |
+| [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ |  |  |
 | [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [#452](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | ⬆️ Updated! |
@@ -80,7 +80,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Sling TV](https://watch.sling.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ |  |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ |  | ✨ New! |
+| [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [#440](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) |  |
