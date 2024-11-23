@@ -15,9 +15,9 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ |  |  |
 | [ABC](https://abc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Acorn](https://acorn.tv) | ✅ | ✔️ | ✔️ |  |  |
-| [Amazon Video](https://www.amazon.com) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
-| [Amazon Video (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
+| [Amazon Video (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
+| [Amazon Video](https://www.amazon.com) | ✅ | ✔️ | ✔️ | [#559](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) | ⬆️ Updated! |
 | [AMC](https://www.amc.com) | ⛔ | ❌ | ❌ | [#558](https://github.com/FrostCo/AdvancedProfanityFilter/issues/558) | Reported not working |
 | [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Angel Studios](https://www.angel.com) | ✅ | ✔️ | ✔️ | [#579](https://github.com/FrostCo/AdvancedProfanityFilter/issues/579) | ✨ New! |
@@ -48,8 +48,8 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Funimation](https://www.funimation.com) | ✅ | ✔️ | ✔️ |  |  |
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ |  |  |
-| [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ |  |  |
+| [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) |  |
@@ -57,9 +57,9 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Jellyfin](https://jellyfin.local) | ✅ | ✔️ | ✔️ |  | ✨ New! |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [#505](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) |  |
+| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ |  |  |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ |  |  |
-| [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [#431](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ | [#563](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ✨ New! |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ |  |  |
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ |  |  |
