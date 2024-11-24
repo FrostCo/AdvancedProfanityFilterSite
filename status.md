@@ -37,7 +37,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [The Daily Wire](https://www.dailywire.com) | ✅ | ✔️ | ✔️ | [#613](https://github.com/FrostCo/AdvancedProfanityFilter/issues/613) | ⬆️ Updated! |
 | [Dailymotion](https://www.dailymotion.com) | ✅ | ✔️ | ✔️ | [#614](https://github.com/FrostCo/AdvancedProfanityFilter/issues/614) |  |
 | [Directv Stream](https://stream.directv.com) | ✅ | ✔️ | ✔️ | [#615](https://github.com/FrostCo/AdvancedProfanityFilter/issues/615) |  |
-| [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ |  | [#550](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |
+| [Discovery+](https://www.discoveryplus.com) | ✅ | ✔️ | ✔️ | [#550](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ | [#616](https://github.com/FrostCo/AdvancedProfanityFilter/issues/616) |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ | [#617](https://github.com/FrostCo/AdvancedProfanityFilter/issues/617) |  |
 | [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [#595](https://github.com/FrostCo/AdvancedProfanityFilter/issues/595) | ⬆️ Updated! |
@@ -49,7 +49,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ | [#622](https://github.com/FrostCo/AdvancedProfanityFilter/issues/622) |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ | [#623](https://github.com/FrostCo/AdvancedProfanityFilter/issues/623) |  |
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ | [#624](https://github.com/FrostCo/AdvancedProfanityFilter/issues/624) |  |
-| [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ |  | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |
+| [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ | [#548](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |  |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ | [#625](https://github.com/FrostCo/AdvancedProfanityFilter/issues/625) |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ | [#626](https://github.com/FrostCo/AdvancedProfanityFilter/issues/626) |  |
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [#544](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) |  |
