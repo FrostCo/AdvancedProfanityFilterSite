@@ -56,7 +56,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) | ⬆️ Updated! |
 | [Jellyfin](https://jellyfin.local) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/627) | ✨ New! |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/628) |  |
-| [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/505) |  |
+| [Max](https://play.max.com) | ⛔ | ⛔ | ⛔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) |  |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/629) |  |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/630) |  |
