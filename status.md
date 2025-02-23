@@ -41,7 +41,9 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/616) |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/617) |  |
 | [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/595) | ⬆️ Updated! |
+| [Emby](https://app.emby.media) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/673) | ✨ New! |
 | [Fandango At Home (Vudu)](https://athome.fandango.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/594) | ⬆️ Updated! |
+| [Fawsome](https://fawesome.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/672) | ✨ New! |
 | [Fox](https://www.fox.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/618) |  |
 | [Frndly TV](https://watch.frndlytv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/619) | ⬆️ Updated! |
 | [Fubo](https://www.fubo.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/620) |  |
@@ -56,7 +58,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) |  |
 | [Jellyfin](https://jellyfin.local) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/627) | ✨ New! |
 | [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/628) |  |
-| [Max](https://play.max.com) | ⛔ | ⛔ | ⛔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) |  |
+| [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) | ⬆️ Updated! |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/629) |  |
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/630) |  |
@@ -89,13 +91,14 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Stan (AUS)](https://play.stan.com.au) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/653) |  |
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/654) |  |
 | [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/655) |  |
-| [Syfy](https://www.syfy.com) | ⚠️ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/656) | ⚠️ See issue |
+| [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/656) | ⬆️ Updated! |
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) |  |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/658) |  |
 | [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) |  |
 | [Videoland (NLD)](https://v2.videoland.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/660) |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) |  |
+| [ViX](https://vix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/674) | ✨ New! |
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) |  |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/661) |  |
