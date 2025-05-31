@@ -69,7 +69,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/634) |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/635) |  |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/636) |  |
-| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | |
+| [Peacock](https://www.peacocktv.com) | ⚠️ | 📝 | 📝 | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | See details for temp fix |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/637) |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/638) |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/639) |  |
