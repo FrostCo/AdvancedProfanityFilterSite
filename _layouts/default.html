@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
-    {% include head.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
   </head>
   <body>
     {{ content }}
