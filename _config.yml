@@ -5,6 +5,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - assets/custom.css
-  - assets/favicon.ico
+  - assets/css/custom.css
+  - assets/images/favicon.ico
   - status.md
