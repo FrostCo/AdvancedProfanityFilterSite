@@ -5,5 +5,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - assets/css/custom.css
+  - assets/custom.css
   - status.md
