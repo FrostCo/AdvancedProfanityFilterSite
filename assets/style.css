@@ -1,0 +1,28 @@
+/* dark-mode.css */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+
+  a {
+    color: #66d9ef;
+  }
+
+  header, footer, nav {
+    background-color: #1a1a1a;
+  }
+
+  code, pre {
+    background-color: #2b2b2b;
+  }
+
+  table {
+    border-color: #555;
+  }
+
+  th, td {
+    border-color: #555;
+  }
+}
