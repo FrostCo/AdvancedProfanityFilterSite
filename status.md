@@ -57,7 +57,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Hulu](https://www.hulu.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/544) |  |
 | [ITV (GBR)](https://www.itv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) |  |
 | [Jellyfin](https://jellyfin.local) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/627) |  |
-| [Kanopy](https://www.kanopy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/628) |  |
+| [Kanopy](https://www.kanopy.com) | ⛔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/628) | Reported not working |
 | [Max](https://play.max.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) | ⬆️ Updated! |
 | [Mediaset Infinity (ITA)](https://mediasetinfinity.mediaset.it) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/431) |  |
 | [MGM+](https://www.mgmplus.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/629) |  |
