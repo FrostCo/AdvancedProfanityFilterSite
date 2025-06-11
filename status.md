@@ -95,7 +95,7 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) |  |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/658) |  |
-| [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) |  |
+| [USA Network](https://www.usanetwork.com) | ⚠️ | 📝 | 📝 | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) | ℹ️ See details for update |
 | [Videoland (NLD)](https://v2.videoland.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/660) |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | ⬆️ Updated! |
 | [ViX](https://vix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/674) | ✨ New! |
