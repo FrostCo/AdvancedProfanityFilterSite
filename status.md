@@ -129,4 +129,22 @@ Current status of supported sites for the [latest version](https://github.com/Fr
     const isDark = root.classList.toggle('dark-mode');
     localStorage.setItem('theme', isDark ? 'dark' : 'light');
   });
+
+  // Add tooltips for statuses and features
+  const emojiTooltips = {
+    '✅': 'Working',
+    '⚠️': 'Degraded',
+    '⛔': 'Broken',
+    '❔': 'Unknown',
+    '✔️': 'Working',
+    '📝': 'Info/Notes',
+    '❌': 'Unsupported',
+  };
+
+  document.querySelectorAll('td').forEach(el => {
+    const text = el.textContent.trim();
+    if (emojiTooltips[text] && !el.title) {
+      el.title = emojiTooltips[text];
+    }
+  });
 </script>
