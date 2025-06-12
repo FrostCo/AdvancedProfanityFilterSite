@@ -35,3 +35,9 @@ tr:nth-child(even) {
     background-color: #2a2a2a;
   }
 }
+
+/* Customize layout */
+#header_wrap,
+#footer_wrap {
+  display: none;
+}
