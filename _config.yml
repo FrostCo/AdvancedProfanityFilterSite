@@ -12,4 +12,3 @@ relative_links:
 include:
   - assets/css/custom.css
   - assets/images/favicon.ico
-  - status.md
