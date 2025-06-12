@@ -1,9 +1,12 @@
 theme: jekyll-theme-slate
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - assets/css/custom.css
   - assets/images/favicon.ico
