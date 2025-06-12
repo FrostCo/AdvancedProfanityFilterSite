@@ -41,6 +41,10 @@ tr:nth-child(even) {
   color: #80b3ff;
 }
 
+.dark-mode h1 {
+  color: #dddddd;
+}
+
 .dark-mode table {
   background-color: #1e1e1e;
 }
