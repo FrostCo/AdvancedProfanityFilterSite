@@ -30,6 +30,10 @@ tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
+tr:hover {
+  background-color: #eef6ff;
+}
+
 /* Dark mode override */
 .dark-mode body,
 .dark-mode #main_content_wrap {
@@ -55,6 +59,10 @@ tr:nth-child(even) {
 
 .dark-mode tr:nth-child(even) {
   background-color: #2a2a2a;
+}
+
+.dark-mode tr:hover {
+  background-color: #2d3a4a;
 }
 
 /* Customize layout */
