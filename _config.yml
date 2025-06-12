@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+markdown: kramdown
 
 plugins:
   - jekyll-relative-links
