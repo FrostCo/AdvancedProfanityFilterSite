@@ -1,3 +1,8 @@
+---
+title: Status
+description: Status of audio muting support for sites using Advanced Profanity Filter
+---
+
 # 🎥 Status of Supported Audio Muting Sites
 
 Current status of supported sites for the [latest version](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest) of [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme)'s audio muting feature.
