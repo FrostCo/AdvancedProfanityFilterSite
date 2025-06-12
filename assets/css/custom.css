@@ -1,6 +1,7 @@
 /* Light/dark mode toggle based on prefers-color-scheme */
 @media (prefers-color-scheme: dark) {
-  body {
+  body,
+  #main_content_wrap {
     background-color: #121212;
     color: #e0e0e0;
   }
