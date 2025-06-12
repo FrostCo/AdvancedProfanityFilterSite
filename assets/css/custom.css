@@ -6,6 +6,10 @@
     color: #e0e0e0;
   }
 
+  #main_content_wrap h1 {
+    color: #dddddd;
+  }
+
   a { color: #80b3ff; }
   table { background-color: #1e1e1e; }
 }
