@@ -1,20 +1,16 @@
-/* Light/dark mode toggle based on prefers-color-scheme */
-@media (prefers-color-scheme: dark) {
-  body,
-  #main_content_wrap {
-    background-color: #121212;
-    color: #e0e0e0;
-  }
-
-  #main_content_wrap h1 {
-    color: #dddddd;
-  }
-
-  a { color: #80b3ff; }
-  table { background-color: #1e1e1e; }
+/* Toggle button styling */
+#darkModeToggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 }
 
-/* Improve table borders and spacing */
+/* Light mode base */
+body, #main_content_wrap {
+  background-color: #ffffff;
+  color: #111;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
@@ -30,14 +26,31 @@ th, td {
   text-align: left;
 }
 
-/* Zebra striping */
 tr:nth-child(even) {
   background-color: #f9f9f9;
 }
-@media (prefers-color-scheme: dark) {
-  tr:nth-child(even) {
-    background-color: #2a2a2a;
-  }
+
+/* Dark mode override */
+.dark-mode body,
+.dark-mode #main_content_wrap {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode a {
+  color: #80b3ff;
+}
+
+.dark-mode table {
+  background-color: #1e1e1e;
+}
+
+.dark-mode th, .dark-mode td {
+  border-color: #333;
+}
+
+.dark-mode tr:nth-child(even) {
+  background-color: #2a2a2a;
 }
 
 /* Customize layout */

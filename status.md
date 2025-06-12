@@ -7,6 +7,10 @@ description: Status of audio muting support for sites using Advanced Profanity F
 
 # 🎥 Status of Supported Audio Muting Sites
 
+<button id="darkModeToggle" aria-label="Toggle dark mode">
+  🌙 Toggle Dark Mode
+</button>
+
 Current status of supported sites for the [latest version](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest) of [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme)'s audio muting feature.
 
 **Note: Compatibility can vary based on device and location of access.**
@@ -109,3 +113,20 @@ Current status of supported sites for the [latest version](https://github.com/Fr
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) |  |
 | [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/661) |  |
+
+<script>
+  const root = document.documentElement;
+  const savedTheme = localStorage.getItem('theme');
+
+  if (savedTheme) {
+    if (savedTheme === 'dark') root.classList.add('dark-mode');
+  } else {
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (prefersDark) root.classList.add('dark-mode');
+  }
+
+  document.getElementById('darkModeToggle').addEventListener('click', () => {
+    const isDark = root.classList.toggle('dark-mode');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  });
+</script>
