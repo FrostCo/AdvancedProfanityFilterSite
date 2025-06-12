@@ -3,8 +3,27 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 1rem;
-  margin-bottom: 1rem;
+}
+
+.status-header h1 {
+  margin: 0;
+  font-size: 1.75rem;
+}
+
+#darkModeToggle {
+  font-size: 1.1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.2rem;
+  line-height: 1;
+  transition: transform 0.2s;
+}
+
+#darkModeToggle:hover {
+  transform: scale(1.2);
 }
 
 #darkModeToggle {
