@@ -10,9 +10,9 @@ description: Status of audio muting support for sites using Advanced Profanity F
   <button id="darkModeToggle" aria-label="Toggle dark mode">🌙</button>
 </div>
 
-Current status of supported sites for the [latest version](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest) of [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme)'s audio muting feature.
+Audio muting support status for all sites based on the [latest version](https://github.com/FrostCo/AdvancedProfanityFilter/releases/latest) of [Advanced Profanity Filter](https://github.com/FrostCo/AdvancedProfanityFilter#readme).
 
-**Note: Compatibility can vary based on device and location of access.**
+**Note: Compatibility can vary based on device and geographic location of access.**
 
 **Status: ✅ Working, ⚠️ Degraded, ⛔ Broken, ❔ Unknown**  
 **Feature: ✔️ Working, 📝 Info/Notes, ❌ Unsupported, ❔ Unknown**
