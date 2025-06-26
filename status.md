@@ -24,7 +24,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [10Play (AUS)](https://10play.com.au) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/598) |  |
 | [ABC Iview (AUS)](https://iview.abc.net.au) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/598) |  |
 | [ABC](https://abc.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/599) |  |
-| [Acorn](https://acorn.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/600) |  |
+| [Acorn](https://acorn.tv) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/600) | ℹ️ See details for more info |
 | [Amazon Prime](https://www.primevideo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
 | [Amazon Video (GBR)](https://www.amazon.co.uk) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
 | [Amazon Video](https://www.amazon.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/559) |  |
