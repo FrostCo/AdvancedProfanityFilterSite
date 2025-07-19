@@ -102,7 +102,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/654) |  |
 | [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/655) |  |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/656) | ⬆️ Updated! |
-| [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) |  |
+| [TNT Drama](https://www.tntdrama.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) |  |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) |  |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/658) |  |
 | [USA Network](https://www.usanetwork.com) | ⚠️ | 📝 | 📝 | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) | ℹ️ See details for update |
