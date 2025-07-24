@@ -41,6 +41,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [CBS](https://www.cbs.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/608) |  |
 | [Channel 4 (GBR)](https://www.channel4.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/609) |  |
 | [Crackle](https://www.crackle.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/610) |  |
+| [Crave (CAN)](https://www.crave.ca/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/703) | ✨ New! |
 | [Criterion Channel](https://www.criterionchannel.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/611) |  |
 | [Crunchyroll](https://www.crunchyroll.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/502) |  |
 | [CW TV](https://www.cwtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/612) | ⬆️ Updated! |
@@ -61,7 +62,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [FX Networks](https://fxnow.fxnetworks.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/622) |  |
 | [Google Play](https://play.google.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/623) |  |
 | [Hallmark Movies Now](https://www.hmnow.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/624) |  |
-| [HBO Max](https://play.hbomax.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) | 📝 See issue for details |
+| [HBO Max](https://play.hbomax.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/671) | ⬆️ Updated! |
 | [Hidive](https://www.hidive.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/548) |  |
 | [History Channel](https://play.history.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/625) |  |
 | [Hoopla](https://www.hoopladigital.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/626) |  |
@@ -77,9 +78,9 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/632) |  |
 | [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/633) |  |
 | [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/634) |  |
-| [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/635) |  |
+| [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/635) | ⬆️ Updated! |
 | [PBS](https://www.pbs.org) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/636) |  |
-| [Peacock](https://www.peacocktv.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | 📝 See issue for fix |
+| [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) | ⬆️ Updated! |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/637) |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/638) |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/639) |  |
@@ -102,10 +103,12 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Starz](https://www.starz.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/654) |  |
 | [Streamio](https://web.stremio.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/655) |  |
 | [Syfy](https://www.syfy.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/656) | ⬆️ Updated! |
-| [TNT Drama](https://www.tntdrama.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) |  |
+| [TBS](https://www.tbs.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/701) | ✨ New! |
+| [TNT Drama](https://www.tntdrama.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/657) | ⬆️ Updated! |
+| [truTV](https://www.trutv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/702) | ✨ New! |
 | [Tubi](https://tubitv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/440) |  |
 | [Universal Kids](https://www.universalkids.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/658) |  |
-| [USA Network](https://www.usanetwork.com) | ⚠️ | 📝 | 📝 | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) | ℹ️ See details for update |
+| [USA Network](https://www.usanetwork.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/659) | ⬆️ Updated! |
 | [Videoland (NLD)](https://v2.videoland.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/660) |  |
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | ⬆️ Updated! |
 | [ViX](https://vix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/674) | ✨ New! |
