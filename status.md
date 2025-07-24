@@ -90,7 +90,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/644) |  |
 | [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/645) |  |
-| [Rumble](https://rumble.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/discussions/562) |  |
+| [Rumble](https://rumble.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/704) |  |
 | [SBS (AUS)](https://www.sbs.com.au) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/646) |  |
 | [Showmax (AUS)](https://www.showmax.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/647) |  |
 | [Showtime](https://www.showtime.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/648) |  |
