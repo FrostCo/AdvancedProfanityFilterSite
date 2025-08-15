@@ -52,6 +52,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/616) |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/617) |  |
 | [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/595) |  |
+| [Dropout](https://www.dropout.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/707) | ✨ New! |
 | [Emby](https://app.emby.media) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/673) | ✨ New! |
 | [Fandango At Home (Vudu)](https://athome.fandango.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/594) |  |
 | [Fawsome](https://fawesome.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/672) | ✨ New! |
@@ -75,7 +76,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/630) |  |
 | [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/631) |  |
-| [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/632) |  |
+| [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/632) | ⬆️ Updated! |
 | [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/633) |  |
 | [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/634) |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/635) | ⬆️ Updated! |
