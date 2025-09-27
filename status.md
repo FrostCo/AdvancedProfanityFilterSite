@@ -114,7 +114,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Vimeo](https://vimeo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/504) | ⬆️ Updated! |
 | [ViX](https://vix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/674) | ✨ New! |
 | [Xfinity](https://www.xfinity.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/495) |  |
-| [YouTube TV](https://tv.youtube.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
+| [YouTube TV](https://tv.youtube.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/207) |  |
 | [YouTube](https://www.youtube.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/661) |  |
 
 <script>
