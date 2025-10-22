@@ -37,7 +37,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Beamafilm (AUS)](https://beamafilm.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/604) |  |
 | [Binge (AUS)](https://binge.com.au) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/605) |  |
 | [Britbox (GBR)](https://www.britbox.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/606) |  |
-| [CBC Gem (CAN)](https://gem.cbc.ca) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/607) |  |
+| [CBC Gem (CAN)](https://gem.cbc.ca) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/607) | ⬅️ See Details |
 | [CBS](https://www.cbs.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/608) |  |
 | [Channel 4 (GBR)](https://www.channel4.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/609) |  |
 | [Crackle](https://www.crackle.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/610) |  |
