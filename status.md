@@ -31,7 +31,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [AMC](https://www.amc.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/558) |  |
 | [AMC+](https://www.amcplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/601) |  |
 | [Angel Studios](https://www.angel.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/579) |  |
-| [Apple TV+](https://tv.apple.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) |  |
+| [Apple TV+](https://tv.apple.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/436) | ℹ️ [More info](https://github.com/FrostCo/AdvancedProfanityFilter/issues/740) |
 | [AT&T](https://www.att.tv) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/602) |  |
 | [BBC (GBR)](https://www.bbc.co.uk) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/603) | ⬆️ Updated! ([4.3.6](https://github.com/FrostCo/AdvancedProfanityFilter/releases/tag/4.3.6)) |
 | [Beamafilm (AUS)](https://beamafilm.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/604) |  |
