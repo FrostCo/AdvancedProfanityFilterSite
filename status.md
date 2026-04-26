@@ -77,7 +77,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Movies Anywhere](https://moviesanywhere.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/630) | ⬆️ Updated! ([4.3.6](https://github.com/FrostCo/AdvancedProfanityFilter/releases/tag/4.3.6)) |
 | [National Geographic](https://www.nationalgeographic.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/563) |  |
 | [NBC](https://www.nbc.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/631) |  |
-| [Netflix](https://www.netflix.com) | ⚠️ | 📝 | 📝 | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/632) | ⚠️ [Update](https://github.com/FrostCo/AdvancedProfanityFilter/issues/747) |
+| [Netflix](https://www.netflix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/632) | ⬆️ Updated! ([4.4.1](https://github.com/FrostCo/AdvancedProfanityFilter/releases/tag/4.4.1)) |
 | [Nlziet (NLD)](https://app.nlziet.nl) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/633) |  |
 | [Now TV](https://www.nowtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/634) |  |
 | [Paramount+](https://www.paramountplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/635) |  |
