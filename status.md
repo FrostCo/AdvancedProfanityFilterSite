@@ -52,7 +52,7 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Discovery+](https://play.discoveryplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/550) |  |
 | [Dish Anywhere](https://www.dishanywhere.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/616) |  |
 | [Disney+ (ZAF)](https://www.apps.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/617) |  |
-| [Disney+](https://www.disneyplus.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/595) | ⬆️ Updated! ([4.3.6](https://github.com/FrostCo/AdvancedProfanityFilter/releases/tag/4.3.6)) |
+| [Disney+](https://www.disneyplus.com) | ⛔ | ❌ | ❌ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/595) | ⬆️ Updated! ([4.3.6](https://github.com/FrostCo/AdvancedProfanityFilter/releases/tag/4.3.6)) |
 | [Dropout](https://www.dropout.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/707) |  |
 | [Emby](https://app.emby.media) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/673) |  |
 | [Fandango At Home (Vudu)](https://athome.fandango.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/594) |  |
@@ -85,13 +85,13 @@ Audio muting support status for all sites based on the [latest version](https://
 | [Peacock](https://www.peacocktv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/452) |  |
 | [Philo](https://www.philo.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/637) |  |
 | [Plex](https://app.plex.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/638) |  |
-| [Plex Streaming](https://watch.plex.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/713) |  |
+| [Plex Streaming](https://watch.plex.tv) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/713) |  |
 | [Pluto](https://pluto.tv) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/639) |  |
 | [Pure Flix](https://www.pureflix.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/640) |  |
 | [RaiPlay (ITA)](https://www.raiplay.it) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/641) |  |
 | [Redbox](https://www.redbox.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/557) |  |
 | [Redeem TV](https://watch.redeemtv.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/643) |  |
-| [The Roku Channel](https://therokuchannel.roku.com) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/644) |  |
+| [The Roku Channel](https://therokuchannel.roku.com) | ❔ | ❔ | ❔ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/644) |  |
 | [Rooster Teeth](https://roosterteeth.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/499) |  |
 | [ROW8](https://www.row8.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/645) |  |
 | [Rumble](https://rumble.com/) | ✅ | ✔️ | ✔️ | [Details](https://github.com/FrostCo/AdvancedProfanityFilter/issues/704) |  |
